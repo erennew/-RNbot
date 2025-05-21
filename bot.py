@@ -45,7 +45,7 @@ from pyrogram.raw.all import layer
 from config import Config
 from plugins.web_support import web_server
 from plugins.file_rename import app
-
+from importlib.util import spec_from_file_location, module_from_spec
 
 pyrogram.utils.MIN_CHANNEL_ID = -1009999999999
 
@@ -93,7 +93,7 @@ class DigitalRenameBot(Client):
                 plugin_name = patt.stem.replace(".py", "")
                 plugins_path = Path(f"plugins/{plugin_name}.py")
                 import_path = "plugins.{}".format(plugin_name)
-                spec = importlib.util.spec_from_file_location(import_path, plugins_path)
+                spec = spec_from_file_location(import_path, plugins_path)
                 load = importlib.util.module_from_spec(spec)
                 spec.loader.exec_module(load)
                 sys.modules["plugins" + plugin_name] = load
